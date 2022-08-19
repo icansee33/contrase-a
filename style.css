@@ -1,0 +1,54 @@
+
+body{
+    background-color: rgb(52, 152, 219 );
+    
+
+}
+
+p h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+
+}
+
+.registro{
+    text-align: center;
+    background-color: rgb(133, 193, 233 );
+    width: 400px;
+    border-radius: 5%;
+    padding-top: 7px;
+    
+    
+    
+}
+
+.form{
+    padding-left: 34rem;
+    padding-top: 9rem;
+}
+
+.btn{
+    padding-top: 7px;
+    background-color: rgb(52, 152, 219 );
+    width: 250px;
+    border-radius: 4px;
+    border-color: rgb(52, 152, 219 );
+
+}
+
+.contenedor{
+
+    text-align: center;
+    background-color: rgb(133, 193, 233 );
+    width: 400px;
+    border-radius: 5%;
+    padding-top: 7px;
+
+}
+
+.All{
+
+    padding-left: 34rem;
+    padding-top: 9rem;
+
+}
+
